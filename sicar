@@ -5,6 +5,14 @@
   "author": "Yu Chi Jin Ze",
   "cover": "https://imgur.com/TiARZil.png",
   "chapters": {
+  "19": {
+      "title": "ماضٍ غبِر",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/v0x4lte/"
+      },
+      "last_updated": "1616368746"
+    },
   "18": {
       "title": "صديقٌ قديم",
       "volume": "الموسم الأول",
