@@ -5,6 +5,14 @@
   "author": "Yu Chi Jin Ze",
   "cover": "https://imgur.com/TiARZil.png",
   "chapters": {
+  "20": {
+      "title": "غير طبيعي",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/sGtA1UH/"
+      },
+      "last_updated": "1616368746"
+    },
   "19": {
       "title": "ماضٍ غبِر",
       "volume": "الموسم الأول",
