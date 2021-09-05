@@ -5,6 +5,14 @@
   "author": "Yu Chi Jin Ze",
   "cover": "https://imgur.com/TiARZil.png",
   "chapters": {
+  "24": {
+      "title": "صور ",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/ZPRlDPQ/"
+      },
+      "last_updated": "1630875294"
+    },
   "23": {
       "title": "حارسك الدب الصغير ",
       "volume": "الموسم الأول",
