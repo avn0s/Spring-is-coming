@@ -5,13 +5,21 @@
   "author": "Yu Chi Jin Ze",
   "cover": "https://imgur.com/TiARZil.png",
   "chapters": {
-  "27": {
-      "title": "جنون الإخلاص ",
+  "28": {
+      "title": "أول لحظات الإشراق",
       "volume": "الموسم الأول",
       "groups": {
         "Hansoo": "/proxy/api/imgur/chapter/ljWXF6p/"
       },
       "last_updated": "1632657187"
+    },
+  "27": {
+      "title": "جنون الإخلاص ",
+      "volume": "الموسم الأول",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/dbwSExJ/"
+      },
+      "last_updated": "1633284258"
     },
   "26": {
       "title": "حزن حبٍ تعيس ",
